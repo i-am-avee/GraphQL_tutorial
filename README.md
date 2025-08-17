@@ -21,17 +21,17 @@ A full-featured GraphQL backend built with FastAPI and Strawberry for managing d
 - GraphQL endpoint with Strawberry integration
 
 ## 📁 Project Structure
-devconnector/ 
-├── app/ 
-│   ├── main.py 
-│   ├── schema.py  
-│   ├── resolvers/ 
-│   ├── db/ 
-│   ├── services/ 
-│   └── types/
-└── devconnectors.db
-├── requirements.txt 
-└── README.md
+devconnector/<br>
+├── app/<br>
+│   ├── main.py<br> 
+│   ├── schema.py<br>
+│   ├── resolvers/<br>
+│   ├── db/<br>
+│   ├── services/<br>
+│   └── types/<br>
+└── devconnectors.db<br>
+├── requirements.txt<br>
+└── README.md<br>
 
 ## 🚀 Getting Started
 1. **Clone the repository:**
